@@ -8,9 +8,11 @@
   <h2>I am currently a Software Engineering student at ALX:</h2>
 </div>
 
+
   🔭 I’m currently working on {}
   🌱 I’m currently learning Django
   👯 I’m open to collaborate on Software Engineering projects.
+
 
 ## Tools and Technologies
 
