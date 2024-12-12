@@ -5,13 +5,12 @@
 
 <div align="center">
 <div align="center">
-  <h2>I am a Software Engineering student at ALX:</h2>
+  <h2>I am currently a Software Engineering student at ALX:</h2>
 </div>
 
   🔭 I’m currently working on {}
   🌱 I’m currently learning Django
   👯 I’m open to collaborate on Software Engineering projects.
-  ⚡ Fun fact: I like building things
 
 <h3 align="center">Git Stats</h3>
 
