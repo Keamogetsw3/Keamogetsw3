@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+![My Image](Image1.png)
+
+
+#  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hello+There!+My+Name+is+Keamo+M;Welcome+to+my+profile)](https://git.io/typing-svg)
+
 
 <div align="center">
   <a href="https://bento.me/kenangain">
