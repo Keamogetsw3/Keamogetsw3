@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+  ## I am a Software Engineering student at ALX:
 </p>
 
 <div align="center">
