@@ -8,22 +8,6 @@
   <h2>I am a Software Engineering student at ALX:</h2>
 </div>
 
-
-
-
-
-<br>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
-</p>
-
-
-<h2 align="center">🚀 About Me</h2>
-
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
-
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
@@ -1133,3 +1117,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
