@@ -3,8 +3,6 @@
 
 #  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋Hello+There!+My+Name+is+Keamo+M;Welcome+to+my+profile)](https://git.io/typing-svg)
 
-
-
 <div align="center">
 <div align="center">
   <h2>I am a Software Engineering student at ALX:</h2>
