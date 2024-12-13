@@ -89,14 +89,15 @@
   </table>
 </div>
 
-
-## Git Stats
+## Git stats
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keamogetsw3&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Keamo's GitHub stats">
+  
+  <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak">
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Keamogetsw3&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Keamo's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keamogetsw3&theme=highcontrast&hide_border=true">
 <div align="center">
- 
-  <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keamogetsw3&theme=highcontrast&hide_border=true" alt="Profile Details">
+</div>
+
  
