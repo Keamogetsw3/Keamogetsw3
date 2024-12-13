@@ -52,7 +52,7 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/Keamogetsw3/alx-interview">
+        <a href="https://github.com/Koenax/Meet-a-Dr">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keamogetsw3&repo=alx-interview&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
