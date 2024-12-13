@@ -9,11 +9,13 @@
 </div>
 
 
- #### 🔭 Currently working on {}
- #### 🌱 Currently learning Django
- #### 👯 I’m open to collaborate on Software Engineering projects.
+  🔭 Currently working on {}
+  
+  🌱 Currently learning Django
+  
+  👯 I’m open to collaborate on Software Engineering projects.
 
-##
+
 
 ## Tools and Technologies
 
