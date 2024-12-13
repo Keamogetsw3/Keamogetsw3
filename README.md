@@ -29,8 +29,7 @@
 
 ##
 
-## Git Stats
-
+## Languages
 
 <table>
   <tr>
@@ -46,6 +45,8 @@
   </tr>
 </table>
 
+
+## Git Stats
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
