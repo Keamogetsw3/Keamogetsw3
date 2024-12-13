@@ -90,16 +90,23 @@
 </div>
 
 ## Git stats
-<div style="display: flex; justify-content: center; align-items: center; gap: 18px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keamogetsw3&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Keamo's GitHub stats">
-  
-  <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak">
-</div>
+<table style="width: 100%; border: 0; cellpadding: 0; cellspacing: 0;">
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Keamogetsw3&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Keamo's GitHub stats">
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center; padding: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keamogetsw3&theme=highcontrast&hide_border=true" 
+           alt="Profile Details" style="width: 950px;">
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keamogetsw3&theme=highcontrast&hide_border=true" 
-       alt="Profile Details" style="width: 950px;">
-</div>
 
 
  
