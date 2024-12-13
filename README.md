@@ -90,7 +90,7 @@
 </div>
 
 ## Git stats
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 18px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Keamogetsw3&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Keamo's GitHub stats">
   
   <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak">
