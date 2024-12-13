@@ -9,7 +9,7 @@
 </div>
 
 
-  🔭 I’m currently working on {}
+ ### 🔭 I’m currently working on {}
   🌱 I’m currently learning Django
   👯 I’m open to collaborate on Software Engineering projects.
 
