@@ -48,7 +48,6 @@
 </table>
 
 ## Featured Repositories
-## Featured Repositories
 <div align="center">
   <table>
     <tr>
@@ -111,3 +110,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Keamogetsw3)
 
  
+<p align="center"><i>This README is inspired by <a href="https://github.com/KenanGain">KenanGain</a></i></p>
