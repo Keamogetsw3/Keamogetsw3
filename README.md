@@ -104,22 +104,4 @@
 <br>
 <div align="center">
 
-
-### GitHub Contribution Chart
-<a href="https://github.com/Keamogetsw3">
-    <img src="https://ghchart.rshah.org/Keamogetsw3" alt="GitHub Contribution Chart">
-</a>
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/Keamogetsw3?theme=dark" alt="GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats" width="400">
-
-</details>
-
 <br>
