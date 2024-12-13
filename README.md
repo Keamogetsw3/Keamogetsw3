@@ -96,7 +96,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Keamogetsw3&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Keamo's GitHub stats">
     </td>
     <td style="text-align: center; padding: 10px;">
-      <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com/?user=Keamogetsw3&theme=highcontrast&hide_border=true" alt="GitHub Streak">
     </td>
   </tr>
   <tr>
