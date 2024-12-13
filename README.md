@@ -48,41 +48,42 @@
 </table>
 
 ## Featured Repositories
+## Featured Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Keamogetsw3/alx-interview">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keamogetsw3&repo=alx-interview&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Keamogetsw3/alx-files_manager">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keamogetsw3&repo=alx-files_manager&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/SmolLM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Keamogetsw3/alx-backend">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keamogetsw3&repo=alx-backend&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/Llama-3.2_running_locally">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Llama-3.2_running_locally&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/Keamogetsw3/alx-backend-javascript">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keamogetsw3&repo=alx-backend-javascript&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Keamogetsw3/alx-higher_level_programming">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keamogetsw3&repo=alx-higher_level_programming&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Keamogetsw3/alx-backend-user-data">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keamogetsw3&repo=alx-backend-user-data&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
