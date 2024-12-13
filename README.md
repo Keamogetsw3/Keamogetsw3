@@ -98,7 +98,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keamogetsw3&theme=highcontrast&hide_border=true" 
-       alt="Profile Details" style="width: 800px;">
+       alt="Profile Details" style="width: 1000px;">
 </div>
 
 
