@@ -33,7 +33,7 @@
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keamogetsw3&hide=html&hide_border=true&layout=compact&langs_count=12&theme=github_dark&card_width=1000&title_color=adbac7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keamogetsw3&hide=html&hide_border=true&layout=normal&langs_count=12&theme=github_dark&card_width=1000&title_color=adbac7" 
     alt="Top Languages">
 </div>
 
