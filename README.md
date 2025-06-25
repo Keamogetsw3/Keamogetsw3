@@ -29,8 +29,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+## Top Languages
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keamogetsw3&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keamogetsw3&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast&card_width=600" 
+    alt="Top Languages">
 </div>
 
 
