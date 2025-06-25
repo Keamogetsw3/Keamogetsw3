@@ -29,6 +29,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+<div align="center">
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keamogetsw3&theme=github_dark&hide_border=true&layout=compact&card_width=1000&title_color=adbac7) -->
+![Top Langs](assets/gen/metrics-languages.svg)
+<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdbbdii&theme=github-dark&custom_title=abd's%20this%20month%20activity%20on%20Github&hide_border=true&line=adbac7&color=adbac7) -->
+
+</div>
 
 
 ## Languages
