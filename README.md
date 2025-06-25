@@ -33,7 +33,7 @@
 
 <table>
   <tr>
-    <td>Add commentMore actions
+    <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keamogetsw3&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
